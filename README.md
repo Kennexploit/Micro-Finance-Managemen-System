@@ -1,1 +1,1 @@
-This is a Python Django, Micro Finance Management System
+This is a Micro Finance System developed by Django Framework
